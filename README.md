@@ -1,6 +1,6 @@
 # Terminal V1
 
-**Our product is licensed under the** *Apace* **License, and should not be distributed, forked, reverse engineered, or tampered with in any way.**
+**Our product is licensed under the** *Apache* **License, and should not be distributed, forked, reverse engineered, or tampered with in any way.**
 
 ----------------------------------------------------
 
