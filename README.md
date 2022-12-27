@@ -1,5 +1,7 @@
 # Terminal V1
 
+**Our product is licensed under the** *Apace* **License, and should not be distributed, forked, reverse engineered, or tampered with in any way.**
+
 **Terminal V1 | Best designed admin you've seen**
 
 # Features
