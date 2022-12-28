@@ -7,7 +7,7 @@
 **Terminal V1 | Best designed admin you've seen**
 
 # Features
-`🎨` Theme Saving
+`🎨` Theme Saving & custom themes, read # Loadstrings
 
 `🤓` Smart discord joining
 
