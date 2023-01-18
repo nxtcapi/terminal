@@ -6,6 +6,10 @@
 
 **Terminal V1 | Best designed admin you've seen**
 
+# Discord
+
+https://discord.gg/pdCzgxQShc
+
 # Features
 `🎨` Theme Saving & custom themes
 
@@ -89,3 +93,4 @@ Q: How can i get the loader ui back?
 A: `Locate your exploit's workspace, and Delete the Terminal_Settings.json file, then re-execute.`
 
 ![image](https://user-images.githubusercontent.com/109909621/209687081-b07511be-713b-458b-94a1-fd4e97bcbc68.png)
+
