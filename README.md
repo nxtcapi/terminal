@@ -8,7 +8,7 @@
 
 # Discord
 
-https://discord.gg/pdCzgxQShc
+**https://discord.gg/pdCzgxQShc**
 
 # Features
 `🎨` Theme Saving & custom themes
