@@ -1,4 +1,4 @@
-rconsolename("Terminal Error")
+
 local noreadfilelol = [[
     _______                  _             _ 
    |__   __|                (_)           | |
@@ -9,4 +9,8 @@ local noreadfilelol = [[
                                           
       Your Executor Doesnt Support ReadFile]]
 
-rconsoleprint(noreadfilelol)
+
+if not (isfolder or readfile) then 
+  rconsolename("Terminal Error") 
+  rconsoleprint("noreadfilelol") 
+end 
