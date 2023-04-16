@@ -24,55 +24,7 @@
 
 Terminal Loadstring:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/terminal/main/loader.lua",true))()
-```
-
-With Themes:
-
-KEEP THIS AT THE TOP OF THE SCRIPT!!
-```lua
-_G.Colors = {
-    LightTheme = {
-        F = "#FFFFFF",
-        T = "#000000",
-    };
-    DarkTheme = {
-        F = "#000000",
-        T = "#FFFFFF",
-    },
-    BlurpleTheme = {
-        F = "#7289DA",
-        T = "#FFFFFF",
-    },
-    RedTheme = {
-        F = "#FF0000",
-        T = "#FFFFFF",
-    },
-    GreenTheme = {
-        F = "#00FF00",
-        T = "#FFFFFF",
-    },
-    BlueTheme = {
-        F = "#0000FF",
-        T = "#FFFFFF",
-    },
-    YellowTheme = {
-        F = "#FFFF00",
-        T = "#FFFFFF",
-    },
-    OrangeTheme = {
-        F = "#FFA500",
-        T = "#FFFFFF",
-    },
-}
-
-_G.SelectedTheme = _G.Colors.BlurpleTheme
-```
-
-Loadstring:
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/terminal/main/BetaThemes.lua",true))()
+none yet
 ```
 
 # FAQ
