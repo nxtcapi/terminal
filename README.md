@@ -1,10 +1,10 @@
-# Terminal V1
+# Terminal V5
 
 **Our product is licensed under the** *Apache* **License, and should not be distributed, forked, reverse engineered, or tampered with in any way.**
 
 ----------------------------------------------------
 
-**Terminal V1 | Best designed admin you've seen**
+**Terminal V5 | Best designed admin you've seen**
 
 # Discord
 
@@ -12,6 +12,8 @@
 
 # Features
 `🎨` Theme Saving & custom themes
+
+`🧐` Custom Plugins / commands
 
 `🤓` Smart discord joining
 
